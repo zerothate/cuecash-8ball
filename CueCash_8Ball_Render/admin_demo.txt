@@ -1,0 +1,10 @@
+Admin/demo credentials
+---------------------
+Admin: kigenkigen455@gmail.com
+Password: adminpass123
+
+Demo players:
+player1@cuecash.test / pass123 (500 KSh)
+player2@cuecash.test / pass123 (500 KSh)
+player3@cuecash.test / pass123 (500 KSh)
+player4@cuecash.test / pass123 (500 KSh)
